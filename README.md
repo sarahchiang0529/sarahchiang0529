@@ -20,5 +20,5 @@ Here are some projects that I plan to work on SUMMER 24:
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarahchiang0529) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarahchiang__) 
-x
+
 [![](https://visitcount.itsvg.in/api?id=sarahchiang0529&icon=0&color=0)](https://visitcount.itsvg.in)
