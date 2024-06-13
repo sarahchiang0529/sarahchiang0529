@@ -1,4 +1,4 @@
-Hi there, I'm Sarah! 👋
+## Hi there, I'm Sarah! 👋
 
 💫 About Me:
 
