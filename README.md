@@ -1,9 +1,8 @@
-## Hi there 👋
+Hi there, I'm Sarah! 👋
 
-<!--
-**sarahchiang0529/sarahchiang0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
 
-Here are some ideas to get you started:
+I'm a 3rd year Computer Science student at University of Waterloo with a passion for Full Stack Development and Cloud Computing. I'm currently focused on learning more about AI and NestJS.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
