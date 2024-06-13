@@ -3,7 +3,7 @@
 I'm a 3rd-year Computer Science student at the University of Western Ontario with a passion for Full Stack Development.
 
 ### Some Fun Stuff I've Done 😎
-Database Administrator @ London Health Sciences Centre: Built a database implementing Natural Language Processing to capture data from clinical reports into a semi-structured spreadsheet.
+Database Administrator @ London Health Sciences Centre: Built a database using Natural Language Processing to create semi-structured spreadsheets from clinical reports 
 
 
 ## 🛠 Skills
