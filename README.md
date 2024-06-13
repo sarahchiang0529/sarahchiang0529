@@ -1,6 +1,6 @@
 # Hi, I'm Sarah! 👋
 
-I'm a 3rd-year Computer Science student at the University of Western Ontario with a passion for Full Stack Development.
+I'm a 3rd-year Computer Science student at the University of Western Ontario with a passion for Full Stack Development!
 
 ### Some Fun Stuff I've Done 😎
 - Database Administrator @ London Health Sciences Centre: Built a database using Natural Language Processing to create semi-structured spreadsheets from clinical reports 
