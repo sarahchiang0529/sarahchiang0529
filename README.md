@@ -12,6 +12,10 @@ I'm a 3rd-year Computer Science student at the University of Western Ontario wit
 ### 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarahchiang0529&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+### 🎯 Projects
+Here are some projects that I plan to work on SUMMER 24:
+
+
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarahchiang0529) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarahchiang__) [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=linkedin&logoColor=white)](https://gmail.com/in/schiang0529) 
 
